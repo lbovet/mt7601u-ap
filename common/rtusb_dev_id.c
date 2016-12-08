@@ -53,6 +53,8 @@ USB_DEVICE_ID rtusb_dev_id[] = {
 	,			/* XiaoDu Wifi */
 	{USB_DEVICE(0x2955, 0x1003)}
 	,			/* nuomi wifi */
+	{USB_DEVICE(0x2001, 0x3d04)}
+	,			/* D-Link DWA-127 */		
 #endif				/* MT7601U */
 	{}			/* Terminating entry */
 };
